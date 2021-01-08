@@ -50,12 +50,16 @@ DIEN：DIN的升级，使用序列模型模拟用户兴趣的进化过程，考�
 
 -------------step3:--------文哥学习笔记--------------------
 
-https://www.jianshu.com/u/c5df9e229a67       推荐系统遇上深度学习
+推荐系统遇上深度学习  https://www.jianshu.com/u/c5df9e229a67   
+
 浅梦的学习笔记 资料汇总   https://zhuanlan.zhihu.com/p/270918998 
 
 召回匹配 <https://github.com/shenweichen/AlgoNotes#%E5%9B%BE%E7%AE%97%E6%B3%95> 
+
 图算法  https://github.com/shenweichen/AlgoNotes#%E5%9B%BE%E7%AE%97%E6%B3%95
+
 GraphEmbedding <https://github.com/shenweichen/GraphEmbedding> 
+
 Graph Neural Network <https://github.com/shenweichen/GraphNeuralNetwork> 
 
 

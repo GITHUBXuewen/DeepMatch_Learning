@@ -64,4 +64,4 @@ Graph Embedding（网络嵌入表示）做Top-K推荐    https://blog.csdn.net/D
 
 Graph Neural Network <https://github.com/shenweichen/GraphNeuralNetwork> 
 
-
+github代码 https://github.com/princewen/tensorflow_practice/tree/master/recommendation

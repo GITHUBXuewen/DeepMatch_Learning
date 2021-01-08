@@ -60,6 +60,8 @@ DIEN：DIN的升级，使用序列模型模拟用户兴趣的进化过程，考�
 
 GraphEmbedding <https://github.com/shenweichen/GraphEmbedding> 
 
+Graph Embedding（网络嵌入表示）做Top-K推荐    https://blog.csdn.net/Dooonald/article/details/80853359
+
 Graph Neural Network <https://github.com/shenweichen/GraphNeuralNetwork> 
 
 
